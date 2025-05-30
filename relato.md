@@ -106,8 +106,11 @@ Nesta etapa, o foco foi realizar operações de instalação de pacotes. O proce
 
 ![imagem de exemplo](imgs/13-img.png)
 
-4. Por fim, desinstalamos o *nano* 
+4. Por fim, desinstalamos o *nano*
+
+
 ![imagem de exemplo](imgs/14-img.png)
+
 
 ### 5. Permissões dos arquivos
 Neste momento, buscamos compreender como é feito a modificação da permissão dos arquivos. Criamos um arquivo.sh, demos a permissão de execução usando *chmod u+x script.sh*, e por fim verificamos as permissões. Não pude compreender muito bem em relação a termos de execução, quem possui a execução do arquivo ou não.
